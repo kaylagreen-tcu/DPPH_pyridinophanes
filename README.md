@@ -1,0 +1,1 @@
+This repository contains computational data for 8 substituted PyN3 and 6 substituted Py2N2 compounds. Bond dissociation energies (BDEs) were calculated from Gibbs free energies obtained from frequency calculations in the `.log`/`.out` files. Gaussian checkpoint files (`.chk`) are also included to preserve wavefunction data for post-processing.
